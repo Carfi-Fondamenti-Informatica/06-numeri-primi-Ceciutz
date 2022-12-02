@@ -2,7 +2,7 @@
 // Created by Cecilia Utzeri on 02/12/2022
 //
 
-#ifndef ES6
-#define ES6
+#ifndef ESERCITAZIONE6
+#define ESERCITAZIONE6
 bool numero_primo(int,int);
-#endif// ES&_LIB_H
+#endif// ESERCITAZIONE6_LIB_H
